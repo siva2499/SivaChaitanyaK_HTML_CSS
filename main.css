@@ -1,0 +1,99 @@
+.mainbody{
+	background-color: black;
+	border:1px;
+	width: 500px;
+    margin: auto;
+}
+.headtitle{
+	padding: 1px;
+    text-align: center;
+    color: white;
+    margin-top:50px;
+    background-color: lightblue;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.inputsection{
+	text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.firstInput{
+	    margin-bottom: 10px;
+	    width: 90%;
+        padding: 5px;
+}
+.secondInput{
+	    margin-bottom: 10px;
+	    width: 90%;
+        padding: 5px;
+}
+.signInBtn{
+	background-color: lightblue;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    margin-top: -10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+.forgotsec{
+	color: #8a7d7d;
+	padding-left: 25px;
+	padding-right:25px;
+	margin-top: 10px;
+}
+
+.facebook{
+	background-color: #6d7abd;
+	text-align: center;
+	padding: 5px;
+	color: white;
+	margin-top: 25px;
+	margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+.gmail{
+	background-color: #e47070;
+	text-align: center;
+	padding: 2px;
+	color: white;
+	font-size: larger;
+	margin-top: 10px;
+	margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+.option{
+	text-align: center;
+    margin-top: 45px;
+    color: #a59090;
+}
+.loginBtn{
+	text-align: center;
+	background-color: #b7c722;
+	color: white;
+	padding: 5px;
+	margin-top: 30px;
+	margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+.limit{
+	height: 70%;
+	background-color: white;
+	width: 70%;
+	border-radius:5px;
+}
+.hat{
+	float:left;
+	margin-top: 25px;
+	margin-left: 10px
+}
+.tab{
+	margin-left: 3px;
+}
